@@ -1,0 +1,1 @@
+this is the main text content i am using th create RAG
