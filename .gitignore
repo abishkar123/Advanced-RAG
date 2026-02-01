@@ -1,0 +1,40 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Env files / secrets
+.env
+.env.*
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Data and runtime artifacts
+/data/vector_store/
+*.sqlite3
+*.db
+*.log
+
+# Ignore node/pnpm artifacts if present
+node_modules/
